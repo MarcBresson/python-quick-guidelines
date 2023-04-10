@@ -1,4 +1,4 @@
-#Python quick guidelines
+# Python quick guidelines
 
 The quality of the code can be assessed by how much time it takes to a new developer to understand what your code is doing.
 
