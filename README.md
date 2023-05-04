@@ -2,14 +2,14 @@
 
 The quality of the code can be assessed by how much time it takes to a new developer to understand what your code is doing.
 
-Use a linter to help you practice these guidelines. I recommand [flake8](https://pypi.python.org/pypi/flake8/) that check the style and quality of your python code.
+Use a linter to help you practice these guidelines. I recommend [flake8](https://pypi.python.org/pypi/flake8/) that check the style and quality of your python code.
 
 # Quick guidelines
 
 - keep your functions short (less than 30 lines)
 - use docstring to document the modules, functions and classes
 - respect naming conventions (use the right case at the right place)
-- keep your lines short (less than 99 characters) by braking line at the right place
+- keep your lines short (less than 99 characters) by breaking them at the right place
 
 # Naming convention
 
