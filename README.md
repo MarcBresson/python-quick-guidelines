@@ -2,7 +2,7 @@
 
 The quality of the code can be assessed by how much time it takes to a new developer to understand what your code is doing.
 
-Use a linter to help you practice these guidelines. I recommend [flake8](https://pypi.python.org/pypi/flake8/) that check the style and quality of your python code.
+Use a linter to help you practice these guidelines. I recommend [ruff](https://docs.astral.sh/ruff/) that check the style and quality of your python code.
 
 # Quick guidelines
 
@@ -93,13 +93,6 @@ class B: # class
 for code lines, PEP8 recommands not to exceed 99 characters and advice to [stick to 79 characters](https://peps.python.org/pep-0008/#maximum-line-length). Do not make your variable name cryptic in order to meet this guideline.
 
 comments and docstrings must be wrapped at 72 characters.
-- blank lines between functions
-- short lines
-- short functions
-- no comments inside functions
-- typing hints (why using typing hints ?)
-- use pathlib (why using pathlib ?)
-- docstring with numpy conventions
 
 ## Line breaking and indentation
 
