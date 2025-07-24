@@ -149,11 +149,7 @@ income = (gross_wages
 
 ## Comments
 
-Use inline comments sparingly. You **must not** state the obvious.
-
-```python
-x = x + 1 # Increment x
-```
+Use inline comments sparingly. Comments should answer the question "why?" since the "what?" question can be answered by reading your code (which is hoopefully clear enough).
 
 ## Docstrings
 
